@@ -22,3 +22,8 @@
 ```
 
 ## 会社一覧
+
+### [株式会社HERP](https://herp.co.jp/)
+
+- 環境構築に使用されています ([HERP に入って1年で扱った技術をふりかえる](https://note.com/heyyou3/n/n52f1e1fed065))
+- CI にて Nix を用いてビルドした成果物は，キャッシュとして利用しています ([HERP における Nix 活用](https://blog.ryota-ka.me/posts/2022/10/08/how-we-use-nix-in-herp-inc))
